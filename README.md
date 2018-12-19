@@ -5,6 +5,7 @@ INSTALL
 setting docker-files.yml
 
 docker build -t  idesi/centreon .
+
 docker-compose up -d
 
 
